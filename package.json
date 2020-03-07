@@ -1,6 +1,6 @@
 {
   "name": "gm-hello-mars",
-  "version": "1.0.1",
+  "version": "1.0.1-beta.0",
   "description": "Hello mars demo",
   "main": "index.js",
   "scripts": {
